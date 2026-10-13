@@ -1,3 +1,22 @@
+# Credentials
+.env
+*.pem
+*.ppk
+credentials
+aws-credentials*
+*.csv
+
+# OS_junk
+.DS_Store
+Thumbs.db
+
+#Editor settings
+.vscode/
+.idea/
+
+# Docker
+*.log
+
 # Local .terraform directories
 .terraform/
 
